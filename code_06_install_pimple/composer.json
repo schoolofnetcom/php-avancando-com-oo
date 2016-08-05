@@ -1,0 +1,10 @@
+{
+  "autoload":{
+    "psr-4":{
+      "Source\\":"src/"
+    }
+  },
+  "require": {
+    "pimple/pimple": "~3.0"
+  }
+}
